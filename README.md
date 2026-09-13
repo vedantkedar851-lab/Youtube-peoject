@@ -21,7 +21,7 @@ and important content performance metrics.
 
 ##  Business Problems
 ## 1 — Which videos received the highest number of views?
-```SELECT 
+```SQOSELECT 
     title,
     channel_title,
     views
